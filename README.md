@@ -8,7 +8,7 @@ DOI/Year/Volume, Issue, Pages: (will be indicated when the manuscript is publish
 
 TRANSRISKRT3D uses MODFLOW-96 and RT3D executables installed in the directory C:\Simcore\PM8,
 which is the default installation directory of public domain software PMWIN 8
-https://www.simcore.com/wp/archive/ (accessed on 11 October 2025). Although these files
+https://www.simcore.com/wp/archive/ (accessed on 4 Feburary 2026). Although these files
 can be obtained from other sources, TRANSRISKRT3D was tested only using the files included in PMWIN 8.
 
 The example provided in this script is based on three sequential phases. If more phases need to be
