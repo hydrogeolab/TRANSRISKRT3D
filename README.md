@@ -31,3 +31,5 @@ When downloaded, the zip file must be unzipped in a folder (e.g., "C:\Users\[Win
   └─ common_data/
   
 The common_functions and common_data folders contain MATLAB/OCTAVE .m scripts, functions, text files, and supporting data required for the simulations. These files are temporarily copied into the working directory, where the two main scripts are executed (TRANSRISKRT3D_1_rt3d.m for Step 1; TRANSRISKRT3D_2_risk.m for Step 2). After each step, temporary files are automatically deleted to clean up the working environment. The project_executed subfolder includes a fully executed example corresponding to the “default” scenario analyzed in the manuscript.
+
+TRANSRISKRT3D is free and open-source software under the GNU GPLv3 license. https://www.gnu.org/licenses/gpl-3.0.html. No warranty, expressed or implied, is made by the authors or corresponding affiliations as to the correct functionality of the software and related material, nor shall the fact of release constitute any such warranty.
