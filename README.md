@@ -1,4 +1,4 @@
-TRANS-RISK-RT3D is a MATLAB/OCTAVE tool for computing transient Tier3 human health risk assessment (HHRA) using time-varying parameters in RT3D. 
+TRANSRISKRT3D is a MATLAB/OCTAVE tool for computing transient Tier3 human health risk assessment (HHRA) using time-varying parameters in RT3D. 
 
 When using the code, please cite
 Authors: (will be disclosed when the manuscript is accepted) 
