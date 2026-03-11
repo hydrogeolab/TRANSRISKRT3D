@@ -1,10 +1,7 @@
 TRANSRISKRT3D is a MATLAB/OCTAVE tool for computing transient Tier3 human health risk assessment (HHRA) using time-varying parameters in RT3D. 
 
 When using the code, please cite
-Authors: (will be disclosed when the manuscript is accepted) 
-Title: "An integrated tool for transient Tier-3 Human Health Risk Assessment using multispecies reactive  transport models with dynamic parameter updates" 
-Journal: (the manuscript is currently under review on J. Hazardous Materials).
-DOI/Year/Volume, Issue, Pages: (will be indicated when the manuscript is published).
+** D. Pedretti, M. Masetti, L. Cavalva (2026) _"An integrated tool for transient Tier-3 Human Health Risk Assessment using multispecies reactive  transport models with dynamic parameter updates" _, J. Hazardous Materials, accepted manuscript ** (DOI/Year/Volume, Issue, Pages numbers will be indicated when the manuscript is published).
 
 TRANSRISKRT3D uses MODFLOW-96 and RT3D executables installed in the directory C:\Simcore\PM8,
 which is the default installation directory of public domain software PMWIN 8
