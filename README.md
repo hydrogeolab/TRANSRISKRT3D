@@ -3,7 +3,7 @@ TRANSRISKRT3D is a MATLAB/OCTAVE tool for computing transient Tier3 human health
 When using the code, please cite
 
 $${\color{red}D.Pedretti, \ M.Masetti, \ L.Cavalca \ (2026) \ J. \ Hazardous \ Materials \}$$
-**An integrated tool for transient Tier-3 Human Health Risk Assessment using multispecies reactive  transport models with dynamic parameter updates** (Volume 507, 141725, https://doi.org/10.1016/j.jhazmat.2026.141725)
+**An integrated tool for transient Tier-3 Human Health Risk Assessment using multispecies reactive  transport models with dynamic parameter updates** (Volume 507, 141725, https://doi.org/10.1016/j.jhazmat.2026.141725) $${\color{red}Open \ access}$$
 
 TRANSRISKRT3D uses MODFLOW-96 and RT3D executables installed in the directory C:\Simcore\PM8,
 which is the default installation directory of public domain software PMWIN 8
@@ -33,3 +33,5 @@ The common_functions and common_data folders contain MATLAB/OCTAVE .m scripts, f
 
 TRANSRISKRT3D is free and open-source software under the GNU GPLv3 license. https://www.gnu.org/licenses/gpl-3.0.html. No warranty, expressed or implied, is made by the authors or corresponding affiliations as to the correct functionality of the software and related material, nor shall the fact of release constitute any such warranty. 
 
+
+![alt text](https://github.com/hydrogeolab/TRANSRISKRT3D/blob/main/web.png)
